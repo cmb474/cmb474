@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Creating databases for AI models and Dark and Surface web scraping<br>👯 I’m looking to collaborate on any OSINT project<br>🌱 I’m currently learning c++, Rust, GO, and web development<br>💬 Reach out at cmcbee2017@gmail.com<br>⚡ Fun fact I love learning Japanese and plan on learning Mandarin in the future
+🔭 I’m currently working on Dark and Surface web scraping and creating OSINT tools including Social Media Scrapers<br>👯 I’m looking to collaborate on any OSINT project<br>🌱 I’m currently learning c++, Rust, GO, and web development<br>💬 Reach out at cmcbee2017@gmail.com<br>⚡ Fun fact I love learning Japanese and plan on learning Mandarin in the future
 
 
 ## 🌐 Socials:
